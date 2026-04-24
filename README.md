@@ -1,4 +1,4 @@
-# ValGuide on GitHub 👋
+# ValGuide on GitHub
 
 This repository is the shared GitHub home for the `valguide` organization. It holds the organization profile, community guidance, and cross-repository automation that should feel consistent across ValGuide projects.
 
