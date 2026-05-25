@@ -15,9 +15,9 @@ institutional content, operations, localization, and experimentation.
 - Website: [www.valguide.com](https://www.valguide.com)
 - Docs site: [docs.val.guide](https://docs.val.guide)
 - Storybook: [storybook.valguide.com](https://storybook.valguide.com)
-- Repository docs: [docs/](https://github.com/valguide/valguide/tree/dev/docs)
-- Contributing: [CONTRIBUTING.md](https://github.com/valguide/valguide/blob/dev/CONTRIBUTING.md)
-- Self-hosting: [Deployment configuration](https://github.com/valguide/valguide/blob/dev/docs/engineering/reference/deployment-configuration.md)
+- Repository docs: [docs/](https://github.com/valguide/valguide/tree/main/docs)
+- Contributing: [CONTRIBUTING.md](https://github.com/valguide/valguide/blob/main/CONTRIBUTING.md)
+- Self-hosting: [Deployment configuration](https://github.com/valguide/valguide/blob/main/docs/engineering/reference/deployment-configuration.md)
 
 ## Community And Contact
 
